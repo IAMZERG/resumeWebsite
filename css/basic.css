@@ -1,0 +1,16 @@
+.education,
+.experience,
+.hobbies,
+.goals {
+	display: none;
+}
+
+body {
+	background: grey url("../img/low_contrast_linen.png") repeat;
+	transition: 2s;
+	color: white;
+}
+
+.btn {
+	background: grey;
+}

@@ -1,0 +1,16 @@
+.start,
+.experience,
+.education,
+.goals {
+	display: none;
+}
+
+body {
+	background: black url("../img/black_mamba.png") repeat;
+	color: white;
+	transition: 2s;
+}
+
+.btn {
+	background: black
+}

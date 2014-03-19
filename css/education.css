@@ -1,0 +1,16 @@
+.start,
+.experience,
+.hobbies,
+.goals {
+	display: none;
+}
+
+body {
+	background: black url("../img/binding_dark.png") repeat;
+	color: white;
+	transition: 2s;
+}
+
+.btn {
+	background: black;
+}

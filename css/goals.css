@@ -1,0 +1,17 @@
+.start,
+.experience,
+.education,
+.hobbies{
+	display: none;
+}
+
+body {
+	background: grey url("../img/subtle_carbon.png") repeat;
+	color: white;
+	transition: 2s;
+}
+
+.btn {
+	background: white;
+	color: red;
+}

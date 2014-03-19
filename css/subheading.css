@@ -1,0 +1,33 @@
+/*This controls the styling, animations and (eventually) the highlighting on the subheading "buttons."*/
+
+
+.container > div {
+	height: 100%;
+}
+
+	
+
+/*This is for the subheading button itself. */
+.sh {
+	animation: subheading 5s infinite;
+	-webkit-animation: subheading 3s infinite;
+}
+
+.row {
+	height: 30%;
+}
+
+@keyframes subheading
+{
+	0% {}
+	50% {background: transparent;}
+	100% {}
+}
+
+@-webkit-keyframes subheading
+{
+	0% {}
+	50% {background: transparent;}
+	100% {}
+}
+
